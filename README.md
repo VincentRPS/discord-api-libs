@@ -156,6 +156,7 @@ You can find a list of Discord API libraries here. Libraries are sorted alphabet
 - [hikari-py](https://github.com/hikari-py/hikari "hikari-py")
 - [nextcord](https://github.com/nextcord/nextcord "nextcord")<sup>[6]</sup>
 - [pycord](https://github.com/Pycord-Development/pycord "pycord")<sup>[6]</sup>
+- [pincer](https://github.com/pincer-org/pincer)
 
 ### [Racket](https://racket-lang.org "Racket")
 
